@@ -1,2 +1,12 @@
 # UTM-DIGITAL-OPEN-DAY
-lll
+![image alt](
+
+On the 28th October 2025, I was able to attend the UTM Digtial Open Day which was held at UTM Digital(D07), Universiti Teknologi Malaysia(UTM), Johor Bahru. The event that I participated in was mainly held to expose students regarding UTM's Digital objectives which also includes its enterprise systems, initiatives and technology-driven solutions used to support the university's operations.
+
+One of the talks that I managed to attend was a sharing-session held by an Oracle member , Encik Muhammad Asrul Muhammad Zin in which he held a talk about "Oracle Academy".The sharing was held at Bilik Ruckus, Level 2 (Lobby) at 10:15 am until 11:15 am. Throughout the session held , he thoroughly explained the fundamentals of Oracle systems, their applications in managing large-scale data and enterprise environments, and their importance in today's digital industry. He also shared valuable insights into the academic pathways related to this field, as well as potential career opportunities for students who are interested in pursuing a future in enterprise technology and database systems.
+
+Besides attending the talk, we were alo given the opportunity to explore several exhibitions booths showcasing different digital services and systems developed or managed by UTM Digital. These booths provided a clearer understanding of how technology is implemented to improve efficiency, accessibility, and user experience within the university environtment.
+
+Our group had also conducted an interview with one of the UTM Digital staff memeber, which made us gain deeper insights into the UTMSmart platform. Through the interiew, we leaarned how UTMSmart operates as a smart campus solution, integrating various digital features to support students and staffs in UTM. Furthermore, we were also introduced to several new and upcoming features that demonstrates UTM's commitment to continue digital innovation and smart campus development.
+
+To summarize, participating in the UTM Digital Open Day was a highly informative, engaging, and enriching experience. The event not only enhanced my understanding of enterprise systems such as Oracle, but also provided valuable exposures to real-world applications used in a large institute. This experience has further strengthened my interest in technology as well as motivated me to explore more opportunities related to digital systems and infortmation technology in the future.
