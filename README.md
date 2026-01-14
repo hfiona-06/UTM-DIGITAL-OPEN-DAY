@@ -1,7 +1,6 @@
 # UTM-DIGITAL-OPEN-DAY
-![image alt](
 
-On the 28th October 2025, I was able to attend the UTM Digtial Open Day which was held at UTM Digital(D07), Universiti Teknologi Malaysia(UTM), Johor Bahru. The event that I participated in was mainly held to expose students regarding UTM's Digital objectives which also includes its enterprise systems, initiatives and technology-driven solutions used to support the university's operations.
+On the 28th October 2025, I was able to attend the UTM Digital Open Day which was held at UTM Digital(D07), Universiti Teknologi Malaysia(UTM), Johor Bahru. The event that I participated in was mainly held to expose students regarding UTM's Digital objectives which also includes its enterprise systems, initiatives and technology-driven solutions used to support the university's operations.
 
 One of the talks that I managed to attend was a sharing-session held by an Oracle member , Encik Muhammad Asrul Muhammad Zin in which he held a talk about "Oracle Academy".The sharing was held at Bilik Ruckus, Level 2 (Lobby) at 10:15 am until 11:15 am. Throughout the session held , he thoroughly explained the fundamentals of Oracle systems, their applications in managing large-scale data and enterprise environments, and their importance in today's digital industry. He also shared valuable insights into the academic pathways related to this field, as well as potential career opportunities for students who are interested in pursuing a future in enterprise technology and database systems.
 
