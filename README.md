@@ -9,3 +9,5 @@ In addition to the talk, we were given the opportunity to visit several exhibiti
 Furthermore, our group conducted an interview with a UTM Digital staff member, which allowed us to gain deeper insights into the UTMSmart platform. Through the interview, we learned how UTMSmart functions as a smart campus solution by integrating various digital features to support students and staff at UTM. We were also introduced to several new and upcoming features, demonstrating UTM’s strong commitment to continuous digital innovation and smart campus development.
 
 In conclusion, participating in the UTM Digital Open Day was a highly informative, engaging, and enriching experience. The event not only enhanced my understanding of enterprise systems such as Oracle, but also provided valuable exposure to real-world digital applications used within a large institution. This experience has further strengthened my interest in technology and motivated me to explore more opportunities related to digital systems and information technology in the future.
+
+Youtube Link to our Assignment 1 Video : https://youtu.be/Ysrnz7KmUsw
